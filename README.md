@@ -34,18 +34,11 @@ STEP 6:
 
 **Register Number:**
 
- # Define RNN Model
 
-class RNNModel(nn.Module):
   
     # write your code here
 
 
-
-
- # Train the Model
-
- # Write your code here
 
 **OUTPUT**
 
