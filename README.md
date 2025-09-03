@@ -34,7 +34,7 @@ STEP 6:
 
 **Register Number:**
 
-*# Define RNN Model
+ # Define RNN Model
 
 class RNNModel(nn.Module):
   
@@ -43,9 +43,9 @@ class RNNModel(nn.Module):
 
 
 
-*# Train the Model
+ # Train the Model
 
-*# Write your code here
+ # Write your code here
 
 **OUTPUT**
 
